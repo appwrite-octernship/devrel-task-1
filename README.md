@@ -64,9 +64,9 @@ To participate, you must be:
 
 
 ### Task submission
-- Submit 3 x YouTube links on GitHub Classrooms
-- Submit your code demo on GitHub Classrooms
-- Very Important: If you submit your videos in private mode, you will be disqualified as we have too many projects to review with a small staff. Please set your videos to be unlisted and public. You can test this out by viewing your YouTube videos on a private browser
+1. Upload the task video to YouTube. Make sure the video is `public` or `unlisted`
+2. Submit the YouTube Link and code demo to the auto generated **Feedback Pull Request** for review and submission
+3. Use GitHub Discussions to ask any relevant questions regarding the project
 
 ### Resources
 - Example of a how-to video [how to create google docs clone with Appwrite](https://www.youtube.com/watch?v=0_GJ1w_iG44)
