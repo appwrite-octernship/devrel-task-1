@@ -15,13 +15,15 @@ We're looking for a Developer Advocate to join our Developer Relations team. Thi
 There are many tutorials on creating a to-do app with Appwrite and many high-level video tutorials. What’s missing are the very basics, covering both Flutter and Appwrite fundamentals.  We are looking for an Octern who can demonstrate their developer relations ability by being able to explain a clear step-by-step tutorial on building an app that would help a new developer/CS build their first to-do app.
 
 ### Important Note
-Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Appwrite, joining as as an intern for 3 months.
+Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Appwrite, joining as as an intern for 3 months. The monthly stipend will be $500/month with a chance of being hired and/or a report on how you can improve and be an ideal employee.
 
 
-| Octernship info  | Timelines and Stipend |
-| ------------- | ------------- |
-| Assignment Deadline  | 15 April 2023  |
-| Octernship Duration  | 2 Months  |
+| Octernship info      | Timelines|
+| -------------        | --------------        |
+| Assignment Deadline  | 15 April 2023         |
+| Project Duration     | 6 weeks               |
+| Project Task Length  | < 1 week              |
+| Octernship Duration  | 3 months              |
 
 ### Recommended qualifications
 - Experience with Git & GitHub
